@@ -1,2 +1,2 @@
-My-first-project-with-C
-Author-Sakib.
+My first project with python.
+ Author-Sakiul islam.
