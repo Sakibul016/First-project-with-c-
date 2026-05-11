@@ -1,3 +1,1 @@
-My first project with python.  
-Author Sakibul islam.  
-Please appriciate my effort.
+Hi, This is Author Sakibul. Here you will see my Python learning journey. Thank you . Don't forget to appreciate my effort. 
